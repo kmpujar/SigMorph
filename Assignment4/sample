@@ -1,0 +1,32 @@
+# sent_id = newsgroup-groups.google.com_misc.consumers_a534e32067078b08_ENG_20060116_030800-0078
+# text = Any US attack on Iran could be perceived by China as a direct threat to its economic health.
+1	Any	any	_	_	DET	_	_	_	_
+2	US	US	_	_	SG;PROPN	_	_	_	_
+3	attack	attack	_	_	N;SG	_	_	_	_
+4	on	on	_	_	ADP	_	_	_	_
+5	Iran	Iran	_	_	SG;PROPN	_	_	_	_
+6	could	could	_	_	V;FIN	_	_	_	_
+7	be	be	_	_	NFIN;V	_	_	_	_
+8	perceived	perceive	_	_	V.PTCP;PASS;PST;V	_	_	_	_
+9	by	by	_	_	ADP	_	_	_	_
+10	China	China	_	_	SG;PROPN	_	_	_	_
+11	as	as	_	_	ADP	_	_	_	_
+12	a	a	_	_	DET;INDF	_	_	_	_
+13	direct	direct	_	_	ADJ	_	_	_	_
+14	threat	threat	_	_	N;SG	_	_	_	_
+15	to	to	_	_	ADP	_	_	_	_
+16	its	its	_	_	3;SG;PRO;NEUT	_	_	_	_
+17	economic	economic	_	_	ADJ	_	_	_	_
+18	health	health	_	_	N;SG	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# newdoc id = reviews-221664
+# sent_id = reviews-221664-0001
+# text = This place is a Rip-Off
+1	This	this	_	_	SG;DET	_	_	_	_
+2	place	place	_	_	N;SG	_	_	_	_
+3	is	be	_	_	IND;3;FIN;SG;V;PRS	_	_	_	_
+4	a	a	_	_	DET;INDF	_	_	_	_
+5	Rip	rip	_	_	N;SG	_	_	_	_
+6	-	-	_	_	_	_	_	_	_
+7	Off	off	_	_	N;SG	_	_	_	_
